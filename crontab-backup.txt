@@ -1,0 +1,1 @@
+*/5 * * * * python3 /Users/dev/sample_cron/sample_cron.py > log.log
